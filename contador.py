@@ -1,9 +1,11 @@
+##La idea es que el código funcione como una suerte de alarma
+
 import datetime
 import tkinter as tk
 
 ##Ventana
 window = tk.Tk()
-window.title("CONTADOR PARA IRME A LA MIERDA")
+window.title("CONTADOR PARA IRME")
 
 ##Hora
 now = datetime.datetime.now()
